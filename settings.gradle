@@ -1,0 +1,8 @@
+rootProject.name = "Verifoxx"
+include ':app'
+include ':mainLibrary'
+include ':network'
+include ':dtos'
+include ':verifoxxCore'
+include ':verifoxxRepository'
+include ':business'
